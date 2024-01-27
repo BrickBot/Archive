@@ -13,7 +13,7 @@ While not directly related to the RCX, they can be of particular value in workin
 &nbsp;
 ### Legacy Environment Setup
 Dependencies and related software that might be of use if setting up a legacy environment
-* [Windows 9x](https://github.com/BrickBot/Archive/releases/tag/Win9x): The latest-and-greatest versions of dependencies and related software for a Windows 9x environment.
+* [Windows 9x](https://github.com/BrickBot/Archive/releases/tag/Win9x): The latest-and-greatest versions of dependencies and related software for a Windows 9x (Windows 95, Windows 98, Windows 98 SE, Windows ME) environment.
 
 &nbsp;
 
