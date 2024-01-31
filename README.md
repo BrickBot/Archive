@@ -19,4 +19,7 @@ Dependencies and related software that might be of use if setting up a legacy en
 
 * * *
 
-This repository is typically kept in read-only (archive) mode to guard against accidental changes, modifications, or deletions.
+# Status Note
+This repository is typically kept in read-only (archive) mode to guard against accidental changes, modifications, or deletions;
+however, it can be updated as needed.  Since this repository is typically locked,
+please direct any discussion to the [BrickBot organization discussion](https://github.com/orgs/BrickBot/discussions).
