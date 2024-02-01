@@ -7,7 +7,11 @@ An archive of software releases related to the LEGO® MindStorms RCX
 &nbsp;
 ## Supporting Software
 While not directly related to the RCX, they can be of particular value in working with the RCX.
-* [com0com](https://github.com/BrickBot/Archive/releases/tag/com0com): A suite of drivers and tools offering virtual serial ports, serial port redirection, and more
+* [com0com](https://github.com/BrickBot/Archive/releases/tag/com0com): A suite of drivers and tools offering virtual serial ports, serial port redirection, and more.  They can even open up new ways of interacting with an RCX via an IR tower.  Coupled with IR-Server in the BrickOS-Bibo repository, a sampling of additional scenarios and capabilities that can be enabled include the following:
+  + Communicate with remote RCX devices
+  + Enable apps without USB serial support to use USB towers
+  + Enable apps without TCP serial support to work with emulators (which use TCP for their “virtual” IR connection)
+  + Runs apps on a computer without driver support while connecting an IR tower to a computer with driver support
 * [Original NetBeans IDE](https://github.com/BrickBot/Archive/releases/tag/NetBeans) (pre-Apache, as used to be available bundled with the JDK): Was used in the development of some open source software designed for the RCX (e.g. [VisualNQC](https://github.com/BrickBot/VisualNQC))
 
 &nbsp;
