@@ -1,6 +1,12 @@
 # LEGO® MindStorms RCX Archive
 An archive of software releases related to the LEGO® MindStorms RCX
 
+> [!IMPORTANT]
+> This repository is typically kept in read-only (archive) mode to guard against accidental changes, modifications, or deletions;
+however, it can be updated as needed.  Since this repository is typically locked,
+please direct any discussion to the [BrickBot organization discussion](https://github.com/orgs/BrickBot/discussions).
+
+&nbsp;
 ## Official Releases from LEGO®
 * [LEGO® MindStorms Robotics Invention System](https://github.com/BrickBot/Archive/releases/tag/LEGO)
 
@@ -18,12 +24,3 @@ While not directly related to the RCX, they can be of particular value in workin
 ## Backwards Compatibility Support
 Dependencies and related software that might be of use if setting up a legacy environment or if attempting to run older software under newer operating system versions.
 * [Windows Backwards Compatibility](https://github.com/BrickBot/Archive/releases/tag/Win9x): Includes the latest-and-greatest versions of dependencies and related software for setting up to run older apps, whether using a Windows 9x (Windows 95, Windows 98, Windows 98 SE, Windows ME) environment or a more modern one.
-
-&nbsp;
-
-* * *
-
-# Status Note
-This repository is typically kept in read-only (archive) mode to guard against accidental changes, modifications, or deletions;
-however, it can be updated as needed.  Since this repository is typically locked,
-please direct any discussion to the [BrickBot organization discussion](https://github.com/orgs/BrickBot/discussions).
