@@ -9,6 +9,7 @@ please direct any discussion to the [BrickBot organization discussion](https://g
 &nbsp;
 ## Official Releases from LEGO®
 * [LEGO® MindStorms Robotics Invention System](https://github.com/BrickBot/Archive/releases/tag/LEGO)
+* [LEGO® MindStorms RCX Multimedia](https://github.com/BrickBot/Archive/releases/tag/LEGO-Multimedia)
 
 &nbsp;
 ## Supporting Software
