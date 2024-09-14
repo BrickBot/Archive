@@ -1,4 +1,5 @@
-# LEGO® MindStorms RCX Archive
+LEGO® MindStorms RCX Archive
+============================
 An archive of software releases related to the LEGO® MindStorms RCX
 
 > [!IMPORTANT]
@@ -7,12 +8,20 @@ however, it can be updated as needed.  Since this repository is typically locked
 please direct any discussion to the [BrickBot organization discussion](https://github.com/orgs/BrickBot/discussions).
 
 &nbsp;
-## Official Releases from LEGO®
+Official Releases from LEGO®
+----------------------------
 * [LEGO® MindStorms Robotics Invention System](https://github.com/BrickBot/Archive/releases/tag/LEGO)
 * [LEGO® MindStorms RCX Multimedia Files](https://github.com/BrickBot/Archive/releases/tag/LEGO-Multimedia)
 
 &nbsp;
-## Supporting Software
+Official H8/300 Processor Resources from Hitachi and/or Renesas
+---------------------------------------------------------------
+Resources related to the H8/300 processor used in the LEGO® MindStorms RCX.
+* [Hitachi/Renesas H8/300 Resources](https://github.com/BrickBot/Archive/releases/tag/H8300)
+
+&nbsp;
+Supporting Software
+-------------------
 While not directly related to the RCX, they can be of particular value in working with the RCX.
 * [com0com](https://github.com/BrickBot/Archive/releases/tag/com0com): A suite of drivers and tools offering virtual serial ports, serial port redirection, and more.  They can even open up new ways of interacting with an RCX via an IR tower.  Coupled with IR-Server in the BrickOS-Bibo repository, a sampling of additional scenarios and capabilities that can be enabled include the following:
   + Communicate with remote RCX devices
@@ -22,6 +31,7 @@ While not directly related to the RCX, they can be of particular value in workin
 * [Original NetBeans IDE](https://github.com/BrickBot/Archive/releases/tag/NetBeans) (pre-Apache, as used to be available bundled with the JDK): Was used in the development of some open source software designed for the RCX (e.g. [VisualNQC](https://github.com/BrickBot/VisualNQC))
 
 &nbsp;
-## Backwards Compatibility Support
+Backwards Compatibility Support
+-------------------------------
 Dependencies and related software that might be of use if setting up a legacy environment or if attempting to run older software under newer operating system versions.
 * [Windows Backwards Compatibility](https://github.com/BrickBot/Archive/releases/tag/Win9x): Includes the latest-and-greatest versions of dependencies and related software for setting up to run older apps, whether using a Windows 9x (Windows 95, Windows 98, Windows 98 SE, Windows ME) environment or a more modern one.
