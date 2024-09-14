@@ -8,18 +8,21 @@ however, it can be updated as needed.  Since this repository is typically locked
 please direct any discussion to the [BrickBot organization discussion](https://github.com/orgs/BrickBot/discussions).
 
 &nbsp;
+
 Official Releases from LEGO®
 ----------------------------
 * [LEGO® MindStorms Robotics Invention System](https://github.com/BrickBot/Archive/releases/tag/LEGO)
 * [LEGO® MindStorms RCX Multimedia Files](https://github.com/BrickBot/Archive/releases/tag/LEGO-Multimedia)
 
 &nbsp;
+
 Official H8/300 Processor Resources from Renesas (Hitachi)
 ---------------------------------------------------------------
 Resources related to the H8/300 processor by Renesas (formerly Hitachi) used in the LEGO® MindStorms RCX.
 * [Renesas (Hitachi) H8/300 Resources](https://github.com/BrickBot/Archive/releases/tag/H8300)
 
 &nbsp;
+
 Supporting Software
 -------------------
 While not directly related to the RCX, they can be of particular value in working with the RCX.
@@ -31,6 +34,7 @@ While not directly related to the RCX, they can be of particular value in workin
 * [Original NetBeans IDE](https://github.com/BrickBot/Archive/releases/tag/NetBeans) (pre-Apache, as used to be available bundled with the JDK): Was used in the development of some open source software designed for the RCX (e.g. [VisualNQC](https://github.com/BrickBot/VisualNQC))
 
 &nbsp;
+
 Backwards Compatibility Support
 -------------------------------
 Dependencies and related software that might be of use if setting up a legacy environment or if attempting to run older software under newer operating system versions.
