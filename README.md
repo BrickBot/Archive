@@ -16,7 +16,7 @@ Official Releases from LEGO®
 
 &nbsp;
 
-Official H8/300 Processor Resources from Renesas (Hitachi)
+Official H8/300 Resources from Renesas (Hitachi)
 ---------------------------------------------------------------
 Resources related to the H8/300 processor by Renesas (formerly Hitachi) used in the LEGO® MindStorms RCX.
 * [Renesas (Hitachi) H8/300 Resources](https://github.com/BrickBot/Archive/releases/tag/H8300)
