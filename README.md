@@ -18,8 +18,19 @@ Official Releases from LEGO®
 
 Official H8/300 Resources from Renesas (Hitachi)
 ---------------------------------------------------------------
-Resources related to the H8/300 processor by Renesas (formerly Hitachi) used in the LEGO® MindStorms RCX.
+The primary microcontroller used in the LEGO® MindStorms RCX is an H8/300 by Renesas (formerly Hitachi)
 * [Renesas (Hitachi) H8/300 Resources](https://github.com/BrickBot/Archive/releases/tag/H8300)
+
+### The RCX Microcontroller within the H8 Family Tree:
+#### H8 Family of Microcontrollers  (not the full tree)
+* H8/300 Series
+  + H8/3297 Line
+    - **H8/3292** (HD643329) Microcontroller – used in the LEGO® MindStorms RCX
+* H8/300H Series
+* H8/S Series
+
+Each series (H8/300, H8/300H, and H8/S) can be specifically targeted within the GNU toolchain,
+so when working with the LEGO® MindStorms RCX, the H8/300 must be targeted.
 
 &nbsp;
 
